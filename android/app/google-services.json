@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "332583422396",
+    "project_id": "root-furnace-405401",
+    "storage_bucket": "root-furnace-405401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332583422396:android:a68b7423e918cf73c0c3b9",
+        "android_client_info": {
+          "package_name": "com.essotto.essotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332583422396-4rht14837jp3o00rug9ltnlpdv69km8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.essotto.essotto",
+            "certificate_hash": "152e9c7270d2a1e73c0f22319a1f15681dd11314"
+          }
+        },
+        {
+          "client_id": "332583422396-j4ed5nh279hpjgs8ti04nr7u6q7ab7l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.essotto.essotto",
+            "certificate_hash": "789460b62fb8034a44dc812645ddc03aeba86036"
+          }
+        },
+        {
+          "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmAxWzM3jbhowOZ1qiunCnfEEyq168No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332583422396-1jt19rp2hmlahnaeoll7u3at2vlokvbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.essotto.essotto.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332583422396:android:d7940626f0dc785ec0c3b9",
+        "android_client_info": {
+          "package_name": "com.example.getitgodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332583422396-gojcc6ttprt2lc32okubk10ckqs2b7e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getitgodriver",
+            "certificate_hash": "152e9c7270d2a1e73c0f22319a1f15681dd11314"
+          }
+        },
+        {
+          "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmAxWzM3jbhowOZ1qiunCnfEEyq168No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332583422396-1jt19rp2hmlahnaeoll7u3at2vlokvbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.essotto.essotto.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332583422396:android:c7371c6e6425cbe0c0c3b9",
+        "android_client_info": {
+          "package_name": "com.example.getitgouser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332583422396-1v9ncqtcdfac56bvvk79rv22raiovtbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getitgouser",
+            "certificate_hash": "789460b62fb8034a44dc812645ddc03aeba86036"
+          }
+        },
+        {
+          "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmAxWzM3jbhowOZ1qiunCnfEEyq168No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332583422396-q1lis5c6ilp7taoojqnssh5ur0fcgskl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332583422396-1jt19rp2hmlahnaeoll7u3at2vlokvbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.essotto.essotto.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
